@@ -1,13 +1,12 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Je li kvaliteta naših obalnih voda dovoljno dobra za kupanje?",
+  "subtitle": "U 2025. godini 87,4% voda za kupanje u EU klasificirano je kao „izvrsno“, a ta se brojka od 2010. zadržala između 81% i 89%. U najčišćem plivanju uživat ćete u obalnim vodama za kupanje Cipra, Litve i Slovenije, ali Poljska, Belgija, Finska i Estonija još uvijek imaju dug put pred sobom.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Neke zemlje mogu imati niže ocjene za „izvrsnu“ kvalitetu, a istovremeno imati „dobru“ kvalitetu vode.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Europska agencija za okoliš (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
+  "customUnitLabel": "vode za kupanje izvrsne kvalitete",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
