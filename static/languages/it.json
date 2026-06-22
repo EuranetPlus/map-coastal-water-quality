@@ -1,13 +1,12 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "La qualità delle nostre acque costiere è sufficientemente buona per nuotare?",
+  "subtitle": "Nel 2025, l'87,4% delle acque di balneazione nell'UE è stato classificato come 'eccellente', una percentuale che si è mantenuta tra l'81% e l'89% dal 2010. Le acque più pulite si trovano nelle zone costiere di Cipro, Lituania e Slovenia, ma Polonia, Belgio, Finlandia ed Estonia hanno ancora molta strada da fare.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Alcuni paesi potrebbero ottenere punteggi inferiori per la qualità 'eccellente', pur avendo acque di qualità 'buona'.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
+  "textSource": "Agenzia europea dell'ambiente (2026)",
+  "linkDataAccessDescription": "Accedere ai dati",
   "legend1": "Nessun dato disponibile",
+  "customUnitLabel": "acque di balneazione di ottima qualità",
   "tooltipExtraInfoLabel": "clicca qui"
 }
