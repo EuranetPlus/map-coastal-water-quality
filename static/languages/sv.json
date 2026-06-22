@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Är kvaliteten på våra kustvatten tillräckligt bra för bad?",
+  "subtitle": "År 2025 klassificerades 87,4 % av badvattnen i EU som ”utmärkta”, en siffra som har legat mellan 81 % och 89 % sedan 2010. Du kommer att njuta av det renaste doppet i kustbadvattnen i Cypern, Litauen och Slovenien, men Polen, Belgien, Finland och Estland har fortfarande en bit kvar att gå.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Vissa länder kan ha lägre poäng för ”utmärkt” kvalitet, samtidigt som de fortfarande har vatten av ”god” kvalitet.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Europeiska miljöbyrån (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "badvatten av utmärkt kvalitet",
   "tooltipExtraInfoLabel": "Klicka här"
 }
