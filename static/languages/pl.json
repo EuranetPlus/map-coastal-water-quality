@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Czy jakość naszych wód przybrzeżnych jest wystarczająca do pływania?",
+  "subtitle": "W 2025 r. 87,4% wód w kąpieliskach w UE zostało sklasyfikowanych jako „doskonałe”, a od 2010 r. wskaźnik ten utrzymywał się na poziomie od 81% do 89%. Najczystsze wody w kąpieliskach przybrzeżnych Cypru, Litwy i Słowenii można znaleźć na wyspach, ale Polska, Belgia, Finlandia i Estonia wciąż mają wiele do zrobienia.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Niektóre kraje mogą mieć niższe wyniki w kategorii „doskonała” jakość, choć ich wody nadal są „dobre”.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Europejska Agencja Środowiska (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "wody kąpielowe o doskonałej jakości",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
