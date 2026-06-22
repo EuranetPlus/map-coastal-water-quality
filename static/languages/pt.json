@@ -1,13 +1,12 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "A qualidade das nossas águas costeiras é boa o suficiente para nadar?",
+  "subtitle": "Em 2025, 87,4% das águas balneares na UE foram classificadas como 'excelentes', um valor que se mantém entre 81% e 89% desde 2010. Você poderá desfrutar dos banhos mais limpos nas águas costeiras de Chipre, Lituânia e Eslovênia, mas Polônia, Bélgica, Finlândia e Estônia ainda têm um longo caminho a percorrer.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "Alguns países podem ter pontuações mais baixas para qualidade 'excelente', mesmo possuindo águas de qualidade 'boa'.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Agência Europeia do Ambiente (2026)",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
+  "legend1": "Não há dados disponíveis.",
+  "customUnitLabel": "águas balneares de excelente qualidade",
   "tooltipExtraInfoLabel": "Clique aqui"
 }
