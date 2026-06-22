@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Is de waterkwaliteit van onze kustwateren goed genoeg om in te zwemmen?",
+  "subtitle": "In 2025 werd 87,4% van het zwemwater in de EU als 'uitstekend' geclassificeerd, een percentage dat sinds 2010 tussen de 81% en 89% is gebleven. Het schoonste zwemwater vind je in de kustwateren van Cyprus, Litouwen en Slovenië, maar Polen, België, Finland en Estland hebben nog een lange weg te gaan.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Sommige landen scoren mogelijk lager op 'uitstekende' kwaliteit, terwijl ze toch water van 'goede' kwaliteit hebben.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Europees Milieuagentschap (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "zwemwater van uitstekende kwaliteit",
   "tooltipExtraInfoLabel": "Klik hier"
 }
