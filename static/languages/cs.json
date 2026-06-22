@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Je kvalita našich pobřežních vod dostatečně dobrá pro koupání?",
+  "subtitle": "V roce 2025 bylo 87,4 % vod ke koupání v EU klasifikováno jako „vynikající“, přičemž toto číslo se od roku 2010 drží mezi 81 % a 89 %. Nejčistší koupání si užijete v pobřežních vodách ke koupání na Kypru, v Litvě a Slovinsku, ale Polsko, Belgie, Finsko a Estonsko mají ještě co dělat.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Některé země mohou mít nižší skóre za „vynikající“ kvalitu, a přesto mít vodu v „dobré“ kvalitě.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Evropská agentura pro životní prostředí (2026)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
+  "customUnitLabel": "vody ke koupání vynikající kvality",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
