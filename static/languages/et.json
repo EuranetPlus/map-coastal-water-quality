@@ -1,13 +1,12 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kas meie rannikuvete kvaliteet on ujumiseks piisavalt hea?",
+  "subtitle": "2025. aastal liigitati 87,4% ELi suplusvetest suurepäraseks, see näitaja on alates 2010. aastast püsinud 81% ja 89% vahel. Kõige puhtamat suplust saate nautida Küprose, Leedu ja Sloveenia rannikuvetes, kuid Poolal, Belgial, Soomel ja Eestil on veel pikk tee minna.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Mõnes riigis võib olla „suurepärase” kvaliteedi osas madalam skoor, kuigi vee kvaliteet on siiski „hea”.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Euroopa Keskkonnaagentuur (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "customUnitLabel": "suurepärase kvaliteediga suplusveed",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
