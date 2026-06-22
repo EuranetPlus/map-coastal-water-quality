@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "An bhfuil cáilíocht ár n-uiscí cósta maith go leor le haghaidh snámha?",
+  "subtitle": "Sa bhliain 2025, bhí 87.4% d’uiscí snámha san AE rangaithe mar ‘den scoth’, figiúr atá fós idir 81% agus 89% ó 2010. Bainfidh tú taitneamh as an snámh is glaine in uiscí snámha cósta na Cipire, na Liotuáine agus na Slóivéine, ach tá go leor le déanamh fós ag an bPolainn, an Bheilg, an Fhionlainn agus an Eastóin.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "D’fhéadfadh scóir níos ísle a bheith ag roinnt tíortha maidir le cáilíocht ‘den scoth’, ach fós uiscí de cháilíocht ‘mhaith’ a bheith acu.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Gníomhaireacht Chomhshaoil Eorpach (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "uiscí snámha den scoth",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
