@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Il-kwalità tal-ilmijiet kostali tagħna hija tajba biżżejjed għall-għawm?",
+  "subtitle": "Fl-2025, 87.4% tal-ilmijiet għall-għawm fl-UE ġew ikklassifikati bħala “eċċellenti”, ċifra li baqgħet bejn 81% u 89% mill-2010. Se tgawdi l-aktar għawma nadifa fl-ilmijiet kostali għall-għawm ta’ Ċipru, il-Litwanja u s-Slovenja, iżda l-Polonja, il-Belġju, il-Finlandja u l-Estonja għad għandhom triq xi jagħmlu.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Xi pajjiżi jista’ jkollhom punteġġi aktar baxxi għal kwalità ‘eċċellenti’, filwaqt li xorta jkollhom ilmijiet ta’ kwalità ‘tajba’.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "Aġenzija Ewropea għall-Ambjent (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "ilmijiet għall-għawm ta’ kwalità eċċellenti",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
