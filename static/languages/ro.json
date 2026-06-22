@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Este calitatea apelor noastre de coastă suficient de bună pentru înot?",
+  "subtitle": "În 2025, 87,4% din apele de îmbăiere din UE au fost clasificate drept „excelente”, o cifră care a rămas între 81% și 89% din 2010. Veți avea parte de cea mai curată baie în apele de îmbăiere de coastă din Cipru, Lituania și Slovenia, dar Polonia, Belgia, Finlanda și Estonia mai au mult de parcurs.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Unele țări pot avea scoruri mai mici pentru calitate „excelentă”, deși au în continuare ape de „bună” calitate.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Agenția Europeană de Mediu (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
+  "customUnitLabel": "ape de îmbăiere de calitate excelentă",
   "tooltipExtraInfoLabel": "Click aici"
 }
